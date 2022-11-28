@@ -6,7 +6,7 @@ This is a solution to the third HTML/CSS project of the Make It Real course.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Solution Screenshot](#screenshot)
+  - [Solution Screenshot](#Solution-Screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
